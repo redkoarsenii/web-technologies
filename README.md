@@ -1,3 +1,3 @@
 # web-technologies
-for education
+for education.
 New material that i learnt from learngitbranching.js.org was great and interesting.
